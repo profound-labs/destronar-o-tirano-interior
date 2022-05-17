@@ -1,11 +1,5 @@
 [#titlepage]
-= Só mais um...
-
-[role=title-second-line]
-== Alegria Apreciativa
-
-[#titlepage-description]
-== {description} 
+= {booktitle}
 
 [role=titlepage-author]
 {author}

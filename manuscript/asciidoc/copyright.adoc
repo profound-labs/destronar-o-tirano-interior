@@ -7,7 +7,12 @@ por {author}
 Publicações Sumedhārāma +
 link:http://sumedharama.pt[www.sumedharama.pt]
 
+Para distribuição gratuita +
+_Sabbadānaṃ dhammadānaṃ jinati_ +
+‘A oferta de Dhamma é superior a qualquer outra oferta.’
+
 Este livro encontra-se disponível para distribuição gratuita em +
+link:http://sumedharama.pt[www.sumedharama.pt] +
 link:http://forestsangha.org/[www.forestsangha.org]
 
 Digital Edition {version}
@@ -16,18 +21,18 @@ ePub ISBN {isbn}
 
 This electronic edition was published on {revdate}
 
-Copyright © 2020 Publicações Sumedhārāma
+Copyright © 2022 Publicações Sumedhārāma
 
-Tradução: Pedro Cruz +
-Capa: Nicholas Halliday +
+Tradutor: João Brinco +
+Capa: Filipe Dumas +
 Editor: Appamādo Bhikkhu +
 Formatação: Gambhīro Bhikkhu
 
 Tradução autorizada da edição inglesa:
 
-Publicado originalmente em 2016 pelas Publicações de Amaravati +
-_Just One More... -- Appreciative Joy_ +
-Copyright (C) Amaravati Publications 2016
+Publicado originalmente em 2014 pelas Publicações de Amaravati +
+_Unseating the Inner Tyrant_ +
+Copyright (C) Amaravati Publications 2014
 
 image::cc-by-nc-nd.png[creative commons, role=cc-icon]
 

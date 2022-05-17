@@ -1,22 +1,12 @@
-\clearpage
-\thispagestyle{empty}
+= Dedicações
 
-{\sectionFmt{Dedicação do autor}}
-
-\vspace*{0.8\baselineskip}
+== Dedicação do autor
 
 Pelo meu sexagésimo quinto aniversário, desejo oferecer estes
 ensinamentos e qualquer bem que deles advenha, pelo bem dos meus pais,
-Charles e Winifred Malcolm. Vocês deram"-me tudo o que tinham.
+Charles e Winifred Malcolm. Vocês deram-me tudo o que tinham.
 
-\clearpage
-\thispagestyle{empty}
-
-{\sectionFmt{Dedicação dos patrocinadores}}
-
-\enlargethispage*{\baselineskip}
-
-\vspace*{0.8\baselineskip}
+== Dedicação dos patrocinadores
 
 Esta publicação é possível devido à generosidade do Senhor e Senhora N.
 de Silva, que a oferecem por gratidão ao Sangha de monges e monjas pela
@@ -27,9 +17,8 @@ pensamentos que te dizem que não és bom o suficiente, que não mereces
 muito, que as outras pessoas te acham inferior, ou que apenas te toleram
 por cortesia? Alguma vez dás por ti a ruminar em memórias de coisas que
 fizeste mal, ou relações que não funcionaram? Sentes que tens de ter
-tanto sucesso quanto achas que os outros têm, criticando"-te a ti próprio
-constantemente? Este fenómeno psicológico chama"-se “O tirano Interior”.
+tanto sucesso quanto achas que os outros têm, criticando-te a ti próprio
+constantemente? Este fenómeno psicológico chama-se “O tirano Interior”.
 As boas notícias são que não és a única pessoa que o tem, e que é
 possível escapares ao seu controlo. E a chave para o fazer é
 estabelecer, e continuamente reestabelecer, a intenção correta.
-
