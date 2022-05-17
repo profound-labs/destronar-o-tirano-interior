@@ -1,0 +1,37 @@
+[#copyright, colophon]
+= Copyright
+
+{booktitle} +
+por {author}
+
+Publicações Sumedhārāma +
+link:http://sumedharama.pt[www.sumedharama.pt]
+
+Este livro encontra-se disponível para distribuição gratuita em +
+link:http://forestsangha.org/[www.forestsangha.org]
+
+Digital Edition {version}
+
+ePub ISBN {isbn}
+
+This electronic edition was published on {revdate}
+
+Copyright © 2020 Publicações Sumedhārāma
+
+Tradução: Pedro Cruz +
+Capa: Nicholas Halliday +
+Editor: Appamādo Bhikkhu +
+Formatação: Gambhīro Bhikkhu
+
+Tradução autorizada da edição inglesa:
+
+Publicado originalmente em 2016 pelas Publicações de Amaravati +
+_Just One More... -- Appreciative Joy_ +
+Copyright (C) Amaravati Publications 2016
+
+image::cc-by-nc-nd.png[creative commons, role=cc-icon]
+
+Este trabalho está licenciado com uma Licença Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional.
+
+<http://creativecommons.org/licenses/by-nc-nd/4.0/>
+

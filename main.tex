@@ -1,0 +1,74 @@
+\documentclass[
+  final,
+  babelLanguage=portuguese,
+  desktopVersion,
+  %showtrims,
+  %overleaf,
+]{anecdote}
+
+%\graphicspath{{./assets/photos/300dpi/}}
+\graphicspath{{./assets/photos/92dpi/}}
+
+% Page size: 6x9 inch
+% Body text: 10.5 / 15 pt
+
+\usepackage{local}
+
+%% Details of the book
+%% ===================
+
+\title{Destronar o Tirano Interior}
+\subtitle{}
+\author{Ajahn Sucitto}
+\publisher{Publicações Sumedhārāma}
+\date{2022-05-17}
+\editionInfo{\textit{Primeira edição}, 2022}
+\ISBN{978-989-8994-33-2}
+
+% === Metadata ===
+
+\hypersetup{
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor},
+  pdfcopyright={Copyright (C) 2022, \thePublisher},
+  pdfsubject={},
+  pdfkeywords={},
+  pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
+  pdfcontacturl={},
+  pdflang={pt},
+}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+\hyphenation{London}
+
+\begin{document}
+
+\frontmatter
+
+\ifdesktopversion
+\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.jpg}}
+\fi
+
+\input{./manuscript/tex/titlepage.tex}
+
+\input{./manuscript/tex/copyright.tex}
+
+\cleartorecto
+
+\input{./manuscript/tex/dedication.tex}
+
+% Page 1 is the first page of the first chapter.
+\mainmatter
+
+\input{./manuscript/tex/destronar.tex}
+
+\backmatter
+
+\input{./manuscript/tex/copyright-details.tex}
+
+\emptyUntilEven
+
+\end{document}

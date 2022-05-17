@@ -1,0 +1,20 @@
+[#titlepage]
+= Só mais um...
+
+[role=title-second-line]
+== Alegria Apreciativa
+
+[#titlepage-description]
+== {description} 
+
+[role=titlepage-author]
+{author}
+
+image::{pubs-logo}[role=titlepage-pubs-logo]
+
+[role=titlepage-publisher]
+{publisher-name}
+
+[role=titlepage-publisher-website]
+link:{publisher-link-url}[{publisher-link-name}]
+
